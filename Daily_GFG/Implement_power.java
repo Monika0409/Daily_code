@@ -11,6 +11,7 @@ public class Implement_power {
         
         while(e > 0){
             if(e % 2 == 1){
+                
                 ans = ans * b;
                 e = e - 1;
             }
