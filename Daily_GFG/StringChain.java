@@ -1,5 +1,7 @@
 package Daily_GFG;
 
+import java.util.*;
+
 public class StringChain {
     public int longestStringChain(String words[]) {
         // code here
